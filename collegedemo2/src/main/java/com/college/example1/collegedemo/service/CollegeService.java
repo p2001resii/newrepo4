@@ -67,7 +67,7 @@ public class CollegeService {
 		//collegelist.removeIf(a->a.getColName().equals(colname));
 
 		cr.deleteById(colname);
-		
+		//system.out.println("prasanna is java  is gud");
 	}
 	
 	
